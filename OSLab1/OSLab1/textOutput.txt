@@ -1,0 +1,3 @@
+1 Vova 24 240
+2 Eugene 4 40
+3 Katya 48 480

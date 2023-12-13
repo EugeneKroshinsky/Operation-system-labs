@@ -1,0 +1,2 @@
+D:\ Visual Studio My Projects\OSLab1\x64\Debug\CreatorInFolder.exe.lastcodeanalysissucceeded
+D:\ Visual Studio My Projects\OSLab1\CreatorInFolder\x64\Debug\NativeCodeAnalysis.read.1.tlog
