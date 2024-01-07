@@ -1,0 +1,14 @@
+﻿  UnitTest1.cpp
+D:\ Visual Studio My Projects\OSLab2\UnitTest1\UnitTest1.cpp(30,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+D:\ Visual Studio My Projects\OSLab2\UnitTest1\UnitTest1.cpp(35,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+D:\ Visual Studio My Projects\OSLab2\UnitTest1\UnitTest1.cpp(50,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+D:\ Visual Studio My Projects\OSLab2\UnitTest1\UnitTest1.cpp(66,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+  UnitTest1.vcxproj -> D:\ Visual Studio My Projects\OSLab2\x64\Debug\UnitTest1.dll
