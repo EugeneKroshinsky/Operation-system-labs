@@ -1,0 +1,2 @@
+﻿  client.cpp
+D:\ Visual Studio My Projects\OSLab5\Client\client.cpp(4,10): fatal  error C1083: Не удается открыть файл включение: ..\Server\employee.h: No such file or directory,

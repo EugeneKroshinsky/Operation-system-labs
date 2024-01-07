@@ -1,0 +1,4 @@
+﻿  server.cpp
+D:\ Visual Studio My Projects\OSLab5\OSLab5\server.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ Visual Studio My Projects\OSLab5\OSLab5\server.cpp(141,16): warning C4129: H: неизвестная escape-последовательность
+  OSLab5.vcxproj -> D:\ Visual Studio My Projects\OSLab5\x64\Debug\Server.exe
