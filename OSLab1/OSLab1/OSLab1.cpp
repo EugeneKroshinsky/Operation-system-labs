@@ -6,7 +6,11 @@
 
 #include <locale>
 #include <codecvt>
-
+struct employee {
+    int num;
+    char name[10];
+    double hours;
+};
 int main()
 {
     //создается creator
